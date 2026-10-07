@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+
+dataset/images/
+dataset/labels/
+dataset/train/
+dataset/val/
+dataset/labels.cache
+
+yolo11n.pt
